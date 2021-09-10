@@ -24,3 +24,9 @@
     width: 300px;
   }
 }
+
+#register-section
+{
+  display: flex;
+  justify-content: center;
+}

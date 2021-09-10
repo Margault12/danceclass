@@ -31,3 +31,10 @@ p {
 
 a {
 	text-decoration: none;
+
+	}
+	#register-section
+	{
+		text-align: center;
+		margin: 0 auto;
+	}
